@@ -168,67 +168,67 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath=".\headerfiles\Bin.h"
+				RelativePath=".\HeaderFiles\Bin.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Bin1D.h"
+				RelativePath=".\HeaderFiles\Bin1D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Bin2D.h"
+				RelativePath=".\HeaderFiles\Bin2D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Bin3D.h"
+				RelativePath=".\HeaderFiles\Bin3D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Bindings.h"
+				RelativePath=".\HeaderFiles\Bindings.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\BoxBindingsParser.h"
+				RelativePath=".\HeaderFiles\BoxBindingsParser.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\BoxPacker2D.h"
+				RelativePath=".\HeaderFiles\BoxPacker2D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\BoxPacker3D.h"
+				RelativePath=".\HeaderFiles\BoxPacker3D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Item.h"
+				RelativePath=".\HeaderFiles\Item.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Item2D.h"
+				RelativePath=".\HeaderFiles\Item2D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Item3D.h"
+				RelativePath=".\HeaderFiles\Item3D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Packer.h"
+				RelativePath=".\HeaderFiles\Packer.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Shape.h"
+				RelativePath=".\HeaderFiles\Shape.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Shape2D.h"
+				RelativePath=".\HeaderFiles\Shape2D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Shape3D.h"
+				RelativePath=".\HeaderFiles\Shape3D.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Side.h"
+				RelativePath=".\HeaderFiles\Side.h"
 				>
 			</File>
 			<File
@@ -236,11 +236,11 @@
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\TubeBindingsParser.h"
+				RelativePath=".\HeaderFiles\TubeBindingsParser.h"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\TubePacker.h"
+				RelativePath=".\HeaderFiles\TubePacker.h"
 				>
 			</File>
 		</Filter>
@@ -256,67 +256,67 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\sourcefiles\Bin.cpp"
+				RelativePath=".\SourceFiles\Bin.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Bin1D.cpp"
+				RelativePath=".\SourceFiles\Bin1D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Bin2D.cpp"
+				RelativePath=".\SourceFiles\Bin2D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Bin3D.cpp"
+				RelativePath=".\SourceFiles\Bin3D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\BoxBindingsParser.cpp"
+				RelativePath=".\SourceFiles\BoxBindingsParser.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\BoxPacker2D.cpp"
+				RelativePath=".\SourceFiles\BoxPacker2D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\BoxPacker3D.cpp"
+				RelativePath=".\SourceFiles\BoxPacker3D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Item.cpp"
+				RelativePath=".\SourceFiles\Item.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Item2D.cpp"
+				RelativePath=".\SourceFiles\Item2D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Item3D.cpp"
+				RelativePath=".\SourceFiles\Item3D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\main.cpp"
+				RelativePath=".\SourceFiles\main.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Packer.cpp"
+				RelativePath=".\SourceFiles\Packer.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Shape.cpp"
+				RelativePath=".\SourceFiles\Shape.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Shape2D.cpp"
+				RelativePath=".\SourceFiles\Shape2D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Shape3D.cpp"
+				RelativePath=".\SourceFiles\Shape3D.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Side.cpp"
+				RelativePath=".\SourceFiles\Side.cpp"
 				>
 			</File>
 			<File
@@ -333,19 +333,19 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\TubeBindingsParser.cpp"
+				RelativePath=".\SourceFiles\TubeBindingsParser.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\TubePacker.cpp"
+				RelativePath=".\SourceFiles\TubePacker.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\sourcefiles\Utils.cpp"
+				RelativePath=".\SourceFiles\Utils.cpp"
 				>
 			</File>
 			<File
-				RelativePath=".\headerfiles\Utils.h"
+				RelativePath=".\HeaderFiles\Utils.h"
 				>
 			</File>
 		</Filter>
